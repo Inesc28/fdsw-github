@@ -1,5 +1,6 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: radial-gradient(farthest-side at 50% 100% in lch shorter hue, #000000ff 0%, #32004dff 100%), linear-gradient(to bottom left in srgb-linear, #ffffffff 0%, #ab8a54ff 100%);background-blend-mode: soft-light;
 }
 
 /* Hero Section */
